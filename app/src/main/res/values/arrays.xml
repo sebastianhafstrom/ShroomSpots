@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="svamplista">
+        <item>@string/svamp1</item>
+        <item>@string/svamp2</item>
+        <item>@string/svamp3</item>
+        <item>@string/svamp4</item>
+        <item>@string/svamp5</item>
+    </string-array>
+</resources>

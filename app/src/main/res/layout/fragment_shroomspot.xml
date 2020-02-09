@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/shroomspot_title_label"
+        style="?android:listSeparatorTextViewStyle"/>
+
+    <TextView android:id="@+id/shroomspot_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:hint="@string/shroomspot_hint"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/shroomspot_details_label"
+        style="?android:listSeparatorTextViewStyle"
+        />
+    <Button
+        android:id="@+id/shroomspot_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        />
+    <CheckBox
+        android:id="@+id/shroomspot_emptied"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/shroomspot_emptied_label"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        />
+</LinearLayout>

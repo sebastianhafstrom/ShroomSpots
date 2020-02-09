@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ShroomSpots</string>
+    <string name="shroomspot_hint">Enter the name of the Shroom Spot</string>
+    <string name="shroomspot_title_label">Title</string>
+    <string name="shroomspot_details_label">Details</string>
+    <string name="shroomspot_emptied_label">Emptied?</string>
+    <string name="date_picker_title">När besökte du svampstället senast?</string>
+    <string name="svamp1">Kantarell</string>
+    <string name="svamp2">Trattkantarell</string>
+    <string name="svamp3">KarlJohanssvamp</string>
+    <string name="svamp4">Smörsopp</string>
+    <string name="svamp5">Annan svamp</string>
+    <string name="new_title_label">Namn</string>
+    <string name="new_title_help">Ange ett namn på svampstället</string>
+    <string name="new_type_label">Svampsort</string>
+    <string name="new_position_label">Plats</string>
+    <string name="use_my_pos">Använd min position</string>
+    <string name="choose_pos_on_map">Välj plats på karta</string>
+    <string name="new_shroomspot_title">Skapa ett nytt svampställe</string>
+    <string name="new_description_label">Beskrivning</string>
+    <string name="new_description_help">Ange en beskrivning för svampstället</string>
+    <string name="title_activity_new_shroom_spot">NewShroomSpot</string>
+
+</resources>
